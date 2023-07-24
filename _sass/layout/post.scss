@@ -415,3 +415,10 @@ h1 + .post-meta {
     border-radius: 0;
   }
 }
+
+blockquote {
+  > p {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
