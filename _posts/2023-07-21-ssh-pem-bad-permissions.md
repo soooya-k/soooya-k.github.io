@@ -1,7 +1,7 @@
 ---
 title: SSH 접속 시 pem 파일 bad permissions 오류.
 date: 2023-07-21 10:00:00 +0900
-categories: [문제 해결, AWS]
+categories: [문제 해결, 문제 해결_SSH]
 tags: [문제 해결, AWS, EC2, SSH]
 ---
 

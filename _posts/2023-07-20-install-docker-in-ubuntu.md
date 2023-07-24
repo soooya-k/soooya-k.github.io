@@ -1,7 +1,7 @@
 ---
 title: Ubuntu 22.04 LTS에서 docker 설치
 date: 2023-07-20 14:20:00 +0900
-categories: [개발환경, Ubuntu]
+categories: [개발 환경, Ubuntu]
 tags: [docker, ubuntu, 개발환경]
 ---
 
